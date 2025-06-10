@@ -28,13 +28,13 @@ This project aimed to conduct a comprehensive analysis of Amazon sales data to i
 
 ➤ Key Insights:
 
-o	The sales projection for the period is substantial at $12.64 million, indicating a significant revenue target.
+•	The sales projection for the period is substantial at $12.64 million, indicating a significant revenue target.
 
-o	3788 different  products are listed suggesting a wide range of varieties of product availability. 
+•	3788 different  products are listed suggesting a wide range of varieties of product availability. 
 
-o	The KPI figure of 178K likely represents the total number of quantity of products that were successfully transacted. It serves as a key metric summarizing market activity and consumer purchasing patterns 
+•	The KPI figure of 178K likely represents the total number of quantity of products that were successfully transacted. It serves as a key metric summarizing market activity and consumer purchasing patterns 
 
-o	1464 nos. of returns occurred, which is a metric that warrants further investigation to understand underlying causes and potential areas for improvement in product quality or customer satisfaction. 
+•	1464 nos. of returns occurred, which is a metric that warrants further investigation to understand underlying causes and potential areas for improvement in product quality or customer satisfaction. 
 
 ➤ Business Implication/Actionable Insight: 
 
