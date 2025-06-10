@@ -20,6 +20,7 @@ This project aimed to conduct a comprehensive analysis of Amazon sales data to i
 
 ## 🔎Key Visualizations & Insights:
 1.	Top Bar: Key Performance Indicators (KPIs)
+
 ➤ What it Shows: A summary of key business metrics: Sales Projection ($12.64M), Product Units (3788), Key Performance Indicator (KPI - $178K), and Returns (1464).
 
 ➤ Key Insights:
